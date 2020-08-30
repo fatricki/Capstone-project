@@ -1,0 +1,5 @@
+﻿ Introduction:
+
+The purpose of this Project is to help potential new restaurant owners to find the best possible place to open a new Italian restaurant in the Manhattan area.
+
+This project aims to create a clear picture which neighbourhood would be the best for the restaurant. In this project we will take into account the number of existing restaurants in neighbourhoods and population count. 
